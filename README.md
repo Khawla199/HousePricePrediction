@@ -118,7 +118,7 @@ pip install -r requirements.txt
 ### Step 2: Run the Server
 Start the FastAPI server locally:
 ```bash
-uvicorn app.main:app --reload
+uvicorn main:app --reload
 ```
 
 ### Step 3: Train the Model
